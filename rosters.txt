@@ -1,0 +1,7 @@
+Object Oriented Programming in C++ | CSCI211 | 4 | Dr. Alayev
+John|Doe|100001|Lower Sophomore|30|3.50|01/15/2002|09/01/2022
+Jane|Smith|100002|Upper Freshman|20|3.80|03/22/2003|09/01/2023
+end_roster|
+Data Structures | CSCI213 | 4 | Prof. Russell
+Alice|Brown|200001|Lower Junior|60|3.20|07/04/2001|09/01/2021
+end_roster|
